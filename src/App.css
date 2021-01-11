@@ -1,0 +1,15 @@
+body{
+    background: #f48c06;
+}
+.btn-profile{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    border-top-right-radius: 100px;
+}
+.btn-edit{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50px;
+}
